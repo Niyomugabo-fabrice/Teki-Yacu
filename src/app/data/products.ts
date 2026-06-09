@@ -38,15 +38,6 @@ export const products: Product[] = [
     featured: true,
   },
   {
-    id: "phone-4",
-    name: "iPhone 14 Pro",
-    category: "Smartphones",
-    price: 1150000,
-    image: "https://images.unsplash.com/photo-1678652197138-c892e1f1fdd8?w=800&q=80",
-    description: "6.1-inch ProMotion display, A16 Bionic, Dynamic Island, 48MP main camera",
-    featured: true,
-  },
-  {
     id: "phone-5",
     name: "OnePlus 12",
     category: "Smartphones",
@@ -77,14 +68,6 @@ export const products: Product[] = [
     price: 750000,
     image: "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=800&q=80",
     description: "6.1-inch Super Retina XDR, A15 Bionic, Dual camera system, Ceramic Shield",
-  },
-  {
-    id: "phone-9",
-    name: "Samsung Galaxy A54",
-    category: "Smartphones",
-    price: 420000,
-    image: "https://images.unsplash.com/photo-1706103750533-dd4c1a163b0f?w=800&q=80",
-    description: "6.4-inch Super AMOLED, Exynos 1380, 50MP OIS camera, IP67 water resistance",
   },
   {
     id: "phone-10",
@@ -282,14 +265,6 @@ export const products: Product[] = [
     description: "High-capacity portable charger, Fast charging, Universal compatibility, Dual USB ports",
   },
   {
-    id: "acc-4",
-    name: "Belkin 3-in-1 Wireless Charger",
-    category: "Accessories",
-    price: 120000,
-    image: "https://images.unsplash.com/photo-1591290619762-c588e5cbdc42?w=800&q=80",
-    description: "Charge iPhone, Apple Watch, and AirPods simultaneously, Fast wireless charging, Premium design",
-  },
-  {
     id: "acc-5",
     name: "Spigen Tough Armor Case",
     category: "Accessories",
@@ -304,14 +279,6 @@ export const products: Product[] = [
     price: 95000,
     image: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=80",
     description: "Wireless magnetic charging, Seamless iOS integration, Compact design, 15W charging",
-  },
-  {
-    id: "acc-7",
-    name: "Sony WH-1000XM5",
-    category: "Accessories",
-    price: 380000,
-    image: "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcf?w=800&q=80",
-    description: "Industry-leading noise cancellation, 30-hour battery, Exceptional sound quality, Comfortable design",
   },
   {
     id: "acc-8",
@@ -344,14 +311,6 @@ export const products: Product[] = [
     price: 65000,
     image: "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&q=80",
     description: "HDMI 4K output, USB 3.0 ports, SD/microSD readers, 100W Power Delivery, Aluminum build",
-  },
-  {
-    id: "acc-12",
-    name: "Moment Wide Lens for iPhone",
-    category: "Accessories",
-    price: 115000,
-    image: "https://images.unsplash.com/photo-1606499322519-6e0033577308?w=800&q=80",
-    description: "Professional mobile photography, 18mm wide angle, Cinema-quality glass, Phone case required",
   },
   {
     id: "acc-13",
@@ -402,14 +361,6 @@ export const products: Product[] = [
     description: "Vintage leather book design, Card slots, Removable shell, Stands in multiple angles",
   },
   {
-    id: "acc-19",
-    name: "RAVPower 65W GaN Charger",
-    category: "Accessories",
-    price: 52000,
-    image: "https://images.unsplash.com/photo-1591290619762-c588e5cbdc42?w=800&q=80",
-    description: "GaN technology, Dual USB-C ports, Compact size, Fast charge laptops & phones",
-  },
-  {
     id: "acc-20",
     name: "DJI OM 6 Smartphone Gimbal",
     category: "Accessories",
@@ -432,14 +383,6 @@ export const products: Product[] = [
     price: 32000,
     image: "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?w=800&q=80",
     description: "3-meter ultra-strong cable, Weighted knot, 10,000+ bend lifespan, Premium materials",
-  },
-  {
-    id: "acc-23",
-    name: "Samsung Fast Wireless Charger Duo",
-    category: "Accessories",
-    price: 75000,
-    image: "https://images.unsplash.com/photo-1591290619762-c588e5cbdc42?w=800&q=80",
-    description: "Charge two devices, Fast Charge 2.0, LED indicator, Compatible with Galaxy & iPhone",
   },
   {
     id: "acc-24",
